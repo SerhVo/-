@@ -1,4 +1,4 @@
-# - Format text
+#  Format text
 
 Описание
 
